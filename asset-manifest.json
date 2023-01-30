@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/StyleMe-App/static/css/main.073c9b0a.css",
-    "main.js": "/StyleMe-App/static/js/main.9391a5d8.js",
+    "main.js": "/StyleMe-App/static/js/main.f7f243e7.js",
     "static/js/787.913043d2.chunk.js": "/StyleMe-App/static/js/787.913043d2.chunk.js",
     "static/media/logo.svg": "/StyleMe-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/StyleMe-App/index.html",
     "main.073c9b0a.css.map": "/StyleMe-App/static/css/main.073c9b0a.css.map",
-    "main.9391a5d8.js.map": "/StyleMe-App/static/js/main.9391a5d8.js.map",
+    "main.f7f243e7.js.map": "/StyleMe-App/static/js/main.f7f243e7.js.map",
     "787.913043d2.chunk.js.map": "/StyleMe-App/static/js/787.913043d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9391a5d8.js"
+    "static/js/main.f7f243e7.js"
   ]
 }
